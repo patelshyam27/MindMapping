@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Coding Security Guard",
+  "description": "AI-assisted cybersecurity dashboard demonstrating pre-code risk checks, real-time code scanning, MCP tools, policy gateways, and AI-powered vulnerability remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
